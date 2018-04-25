@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Arduino Kotlin</string>
+    <string name="send_message">Send Message</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="get_date_and_time">Get Date and Time</string>
+    <string name="close">Close</string>
+    <string name="send">Send</string>
+    <string name="enter_your_message">Enter your message…</string>
+</resources>
