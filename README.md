@@ -16,5 +16,5 @@ como interface de usuario entre el web service y el puerto serial del arduino.
 
 ![Screenshot](photo_2018-06-05_10-11-53.jpg)
 ![Screenshot](photo_2018-06-05_10-11-58.jpg)
-![Screenshot](Captura de pantalla 2018-06-05 a la(s) 10.13.54.png)
-![Screenshot](Captura de pantalla 2018-06-05 a la(s) 10.13.46.png)
+![Screenshot](1.png)
+![Screenshot](2.png)
