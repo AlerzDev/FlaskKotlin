@@ -4,10 +4,17 @@ En este proyecto se demuestra la utilización de un WebService para la manipulac
 de un dispositivo arduino utilizando a Flask(Python) como web service, Android(Kotlin)
 como interface de usuario entre el web service y el puerto serial del arduino.
 
-## Componentes
-Pantalla LCD
-Dispositivo Arduino
-Dispositivo mobile con sistema Android
-Mac OSX como servidor
+# Componentes
 
-## Imagenes
+<br>Pantalla LCD
+<br>Dispositivo Arduino
+<br>Dispositivo mobile con sistema Android
+<br>Mac OSX como servidor
+
+
+# Imagenes
+
+![Screenshot](photo_2018-06-05_10-11-53.jpg)
+![Screenshot](photo_2018-06-05_10-11-58.jpg)
+![Screenshot](Captura de pantalla 2018-06-05 a la(s) 10.13.54.png)
+![Screenshot](Captura de pantalla 2018-06-05 a la(s) 10.13.46.png)
